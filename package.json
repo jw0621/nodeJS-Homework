@@ -1,0 +1,23 @@
+{
+  "name": "nodeJS-Homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jw0621/nodeJS-Homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jw0621/nodeJS-Homework/issues"
+  },
+  "homepage": "https://github.com/jw0621/nodeJS-Homework#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7"
+  }
+}
